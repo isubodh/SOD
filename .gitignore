@@ -1,0 +1,8 @@
+## Compiled python
+**/*.pyc
+
+## Virutal env
+venv
+
+##
+*.sqlite
